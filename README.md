@@ -1,0 +1,1 @@
+This project focuses on analyzing the sentiment of social media conversations, determining whether the text is positive, negative, or neutral. By simply looking at the words and phrases used in the text, the model classifies the overall sentiment, helping to understand public opinions and emotions expressed online.
